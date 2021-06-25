@@ -1,0 +1,3 @@
+stepdefinitions\login.class
+AppHooks\ApplicationHooks.class
+Pages\loginPage.class
